@@ -1,4 +1,4 @@
-var Workshop = function() {
+var Main = function() {
 	var container, stats;
 
 	var camera, scene, renderer, objects;
